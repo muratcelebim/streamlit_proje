@@ -140,12 +140,6 @@ st.write(prediction_proba)
 
 
 
-"""import os
-
-key = "streamlit_"
-value = os.getenv(key)
-print(value)"""
-
 
 
 
